@@ -1,0 +1,16 @@
+
+{
+  "name": "markguard-ai",
+  "version": "1.0.0",
+  "description": "Professional AI-powered Global IP and Trademark Assistant",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static ESM project - no build step required'"
+  },
+  "keywords": ["trademark", "ip", "legal", "ai", "gemini", "wipo", "euipo"],
+  "author": "MarkGuard AI Team",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}

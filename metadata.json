@@ -1,0 +1,9 @@
+
+{
+  "name": "MarkGuard AI",
+  "description": "A comprehensive AI-powered assistant for global trademark and design registration, featuring multi-jurisdiction search, brand classification, and logo analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
